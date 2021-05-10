@@ -1,0 +1,10 @@
+D:\Code\dotnet\TPL探秘\TPL探秘1\异步下载三个网址\bin\Debug\异步下载三个网址.exe.config
+D:\Code\dotnet\TPL探秘\TPL探秘1\异步下载三个网址\bin\Debug\异步下载三个网址.exe
+D:\Code\dotnet\TPL探秘\TPL探秘1\异步下载三个网址\bin\Debug\异步下载三个网址.pdb
+D:\Code\dotnet\TPL探秘\TPL探秘1\异步下载三个网址\obj\Debug\异步下载三个网址.Form1.resources
+D:\Code\dotnet\TPL探秘\TPL探秘1\异步下载三个网址\obj\Debug\异步下载三个网址.Properties.Resources.resources
+D:\Code\dotnet\TPL探秘\TPL探秘1\异步下载三个网址\obj\Debug\异步下载三个网址.csproj.GenerateResource.cache
+D:\Code\dotnet\TPL探秘\TPL探秘1\异步下载三个网址\obj\Debug\异步下载三个网址.csproj.CoreCompileInputs.cache
+D:\Code\dotnet\TPL探秘\TPL探秘1\异步下载三个网址\obj\Debug\异步下载三个网址.exe
+D:\Code\dotnet\TPL探秘\TPL探秘1\异步下载三个网址\obj\Debug\异步下载三个网址.pdb
+D:\Code\dotnet\TPL探秘\TPL探秘1\异步下载三个网址\obj\Debug\异步下载三个网址.csprojAssemblyReference.cache

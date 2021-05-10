@@ -1,0 +1,10 @@
+D:\Code\dotnet\TPL探秘\TPL探秘1\TPL探秘1\bin\Debug\TPL探秘1.exe.config
+D:\Code\dotnet\TPL探秘\TPL探秘1\TPL探秘1\bin\Debug\TPL探秘1.exe
+D:\Code\dotnet\TPL探秘\TPL探秘1\TPL探秘1\bin\Debug\TPL探秘1.pdb
+D:\Code\dotnet\TPL探秘\TPL探秘1\TPL探秘1\obj\Debug\TPL探秘1.csprojAssemblyReference.cache
+D:\Code\dotnet\TPL探秘\TPL探秘1\TPL探秘1\obj\Debug\TPL探秘1.Form1.resources
+D:\Code\dotnet\TPL探秘\TPL探秘1\TPL探秘1\obj\Debug\TPL探秘1.Properties.Resources.resources
+D:\Code\dotnet\TPL探秘\TPL探秘1\TPL探秘1\obj\Debug\TPL探秘1.csproj.GenerateResource.cache
+D:\Code\dotnet\TPL探秘\TPL探秘1\TPL探秘1\obj\Debug\TPL探秘1.csproj.CoreCompileInputs.cache
+D:\Code\dotnet\TPL探秘\TPL探秘1\TPL探秘1\obj\Debug\TPL探秘1.exe
+D:\Code\dotnet\TPL探秘\TPL探秘1\TPL探秘1\obj\Debug\TPL探秘1.pdb

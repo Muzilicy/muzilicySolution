@@ -1,0 +1,16 @@
+D:\Code\dotnet\TPL探秘\TPL探秘1\TestService\bin\Debug\TestService.dll.config
+D:\Code\dotnet\TPL探秘\TPL探秘1\TestService\bin\Debug\TestService.dll
+D:\Code\dotnet\TPL探秘\TPL探秘1\TestService\bin\Debug\TestService.pdb
+D:\Code\dotnet\TPL探秘\TPL探秘1\TestService\bin\Debug\EntityFramework.dll
+D:\Code\dotnet\TPL探秘\TPL探秘1\TestService\bin\Debug\EntityFramework.SqlServer.dll
+D:\Code\dotnet\TPL探秘\TPL探秘1\TestService\bin\Debug\TestDTO.dll
+D:\Code\dotnet\TPL探秘\TPL探秘1\TestService\bin\Debug\TestIService.dll
+D:\Code\dotnet\TPL探秘\TPL探秘1\TestService\bin\Debug\TestDTO.pdb
+D:\Code\dotnet\TPL探秘\TPL探秘1\TestService\bin\Debug\TestIService.pdb
+D:\Code\dotnet\TPL探秘\TPL探秘1\TestService\bin\Debug\EntityFramework.xml
+D:\Code\dotnet\TPL探秘\TPL探秘1\TestService\bin\Debug\EntityFramework.SqlServer.xml
+D:\Code\dotnet\TPL探秘\TPL探秘1\TestService\obj\Debug\TestService.csprojAssemblyReference.cache
+D:\Code\dotnet\TPL探秘\TPL探秘1\TestService\obj\Debug\TestService.csproj.CoreCompileInputs.cache
+D:\Code\dotnet\TPL探秘\TPL探秘1\TestService\obj\Debug\TestService.csproj.CopyComplete
+D:\Code\dotnet\TPL探秘\TPL探秘1\TestService\obj\Debug\TestService.dll
+D:\Code\dotnet\TPL探秘\TPL探秘1\TestService\obj\Debug\TestService.pdb

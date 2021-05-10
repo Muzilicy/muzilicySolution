@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qeg2YZgaLjK26oZoDV2WOavMmbphas5cFh/rs7DOiDmOPIOZeIBftegBFhw+HzrhBYjup0Wyw+HdsTFNYWnGzw==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\dotnet\\线程同步问题\\线程的join\\线程的join.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\13581\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\Code\dotnet\线程同步问题\线程的join\bin\Debug\netcoreapp3.1\线程的join.exe
+D:\Code\dotnet\线程同步问题\线程的join\bin\Debug\netcoreapp3.1\线程的join.deps.json
+D:\Code\dotnet\线程同步问题\线程的join\bin\Debug\netcoreapp3.1\线程的join.runtimeconfig.json
+D:\Code\dotnet\线程同步问题\线程的join\bin\Debug\netcoreapp3.1\线程的join.runtimeconfig.dev.json
+D:\Code\dotnet\线程同步问题\线程的join\bin\Debug\netcoreapp3.1\线程的join.dll
+D:\Code\dotnet\线程同步问题\线程的join\bin\Debug\netcoreapp3.1\线程的join.pdb
+D:\Code\dotnet\线程同步问题\线程的join\obj\Debug\netcoreapp3.1\线程的join.csprojAssemblyReference.cache
+D:\Code\dotnet\线程同步问题\线程的join\obj\Debug\netcoreapp3.1\线程的join.AssemblyInfoInputs.cache
+D:\Code\dotnet\线程同步问题\线程的join\obj\Debug\netcoreapp3.1\线程的join.AssemblyInfo.cs
+D:\Code\dotnet\线程同步问题\线程的join\obj\Debug\netcoreapp3.1\线程的join.dll
+D:\Code\dotnet\线程同步问题\线程的join\obj\Debug\netcoreapp3.1\线程的join.pdb
+D:\Code\dotnet\线程同步问题\线程的join\obj\Debug\netcoreapp3.1\线程的join.genruntimeconfig.cache
+D:\Code\dotnet\线程同步问题\线程的join\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Code\dotnet\线程同步问题\线程的join\obj\Debug\netcoreapp3.1\线程的join.csproj.CoreCompileInputs.cache
+D:\Code\dotnet\线程同步问题\线程的join\obj\Debug\netcoreapp3.1\线程的join.csproj.CopyComplete

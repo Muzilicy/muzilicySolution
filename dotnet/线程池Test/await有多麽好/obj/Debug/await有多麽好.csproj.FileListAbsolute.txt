@@ -1,0 +1,10 @@
+D:\Code\dotnet\线程池Test\await有多麽好\bin\Debug\await有多麽好.exe.config
+D:\Code\dotnet\线程池Test\await有多麽好\bin\Debug\await有多麽好.exe
+D:\Code\dotnet\线程池Test\await有多麽好\bin\Debug\await有多麽好.pdb
+D:\Code\dotnet\线程池Test\await有多麽好\obj\Debug\await有多麽好.Form1.resources
+D:\Code\dotnet\线程池Test\await有多麽好\obj\Debug\await有多麽好.Properties.Resources.resources
+D:\Code\dotnet\线程池Test\await有多麽好\obj\Debug\await有多麽好.csproj.GenerateResource.cache
+D:\Code\dotnet\线程池Test\await有多麽好\obj\Debug\await有多麽好.csproj.CoreCompileInputs.cache
+D:\Code\dotnet\线程池Test\await有多麽好\obj\Debug\await有多麽好.exe
+D:\Code\dotnet\线程池Test\await有多麽好\obj\Debug\await有多麽好.pdb
+D:\Code\dotnet\线程池Test\await有多麽好\obj\Debug\await有多麽好.csprojAssemblyReference.cache

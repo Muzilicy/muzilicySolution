@@ -1,0 +1,10 @@
+D:\Code\dotnet\线程池Test\HttpClientTest1\bin\Debug\HttpClientTest1.exe.config
+D:\Code\dotnet\线程池Test\HttpClientTest1\bin\Debug\HttpClientTest1.exe
+D:\Code\dotnet\线程池Test\HttpClientTest1\bin\Debug\HttpClientTest1.pdb
+D:\Code\dotnet\线程池Test\HttpClientTest1\obj\Debug\HttpClientTest1.csprojAssemblyReference.cache
+D:\Code\dotnet\线程池Test\HttpClientTest1\obj\Debug\HttpClientTest1.Form1.resources
+D:\Code\dotnet\线程池Test\HttpClientTest1\obj\Debug\HttpClientTest1.Properties.Resources.resources
+D:\Code\dotnet\线程池Test\HttpClientTest1\obj\Debug\HttpClientTest1.csproj.GenerateResource.cache
+D:\Code\dotnet\线程池Test\HttpClientTest1\obj\Debug\HttpClientTest1.csproj.CoreCompileInputs.cache
+D:\Code\dotnet\线程池Test\HttpClientTest1\obj\Debug\HttpClientTest1.exe
+D:\Code\dotnet\线程池Test\HttpClientTest1\obj\Debug\HttpClientTest1.pdb

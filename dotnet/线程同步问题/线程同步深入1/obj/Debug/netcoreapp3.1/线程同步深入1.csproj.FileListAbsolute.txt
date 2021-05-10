@@ -1,0 +1,12 @@
+D:\Code\dotnet\线程同步问题\线程同步深入1\bin\Debug\netcoreapp3.1\线程同步深入1.exe
+D:\Code\dotnet\线程同步问题\线程同步深入1\bin\Debug\netcoreapp3.1\线程同步深入1.deps.json
+D:\Code\dotnet\线程同步问题\线程同步深入1\bin\Debug\netcoreapp3.1\线程同步深入1.runtimeconfig.json
+D:\Code\dotnet\线程同步问题\线程同步深入1\bin\Debug\netcoreapp3.1\线程同步深入1.runtimeconfig.dev.json
+D:\Code\dotnet\线程同步问题\线程同步深入1\bin\Debug\netcoreapp3.1\线程同步深入1.dll
+D:\Code\dotnet\线程同步问题\线程同步深入1\bin\Debug\netcoreapp3.1\线程同步深入1.pdb
+D:\Code\dotnet\线程同步问题\线程同步深入1\obj\Debug\netcoreapp3.1\线程同步深入1.csproj.CoreCompileInputs.cache
+D:\Code\dotnet\线程同步问题\线程同步深入1\obj\Debug\netcoreapp3.1\线程同步深入1.AssemblyInfoInputs.cache
+D:\Code\dotnet\线程同步问题\线程同步深入1\obj\Debug\netcoreapp3.1\线程同步深入1.AssemblyInfo.cs
+D:\Code\dotnet\线程同步问题\线程同步深入1\obj\Debug\netcoreapp3.1\线程同步深入1.dll
+D:\Code\dotnet\线程同步问题\线程同步深入1\obj\Debug\netcoreapp3.1\线程同步深入1.pdb
+D:\Code\dotnet\线程同步问题\线程同步深入1\obj\Debug\netcoreapp3.1\线程同步深入1.genruntimeconfig.cache

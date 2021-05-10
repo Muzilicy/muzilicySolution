@@ -1,0 +1,13 @@
+D:\Code\dotnet\线程同步问题\WordCountTest\bin\Debug\netcoreapp3.1\WordCountTest.exe
+D:\Code\dotnet\线程同步问题\WordCountTest\bin\Debug\netcoreapp3.1\WordCountTest.deps.json
+D:\Code\dotnet\线程同步问题\WordCountTest\bin\Debug\netcoreapp3.1\WordCountTest.runtimeconfig.json
+D:\Code\dotnet\线程同步问题\WordCountTest\bin\Debug\netcoreapp3.1\WordCountTest.runtimeconfig.dev.json
+D:\Code\dotnet\线程同步问题\WordCountTest\bin\Debug\netcoreapp3.1\WordCountTest.dll
+D:\Code\dotnet\线程同步问题\WordCountTest\bin\Debug\netcoreapp3.1\WordCountTest.pdb
+D:\Code\dotnet\线程同步问题\WordCountTest\obj\Debug\netcoreapp3.1\WordCountTest.csprojAssemblyReference.cache
+D:\Code\dotnet\线程同步问题\WordCountTest\obj\Debug\netcoreapp3.1\WordCountTest.csproj.CoreCompileInputs.cache
+D:\Code\dotnet\线程同步问题\WordCountTest\obj\Debug\netcoreapp3.1\WordCountTest.AssemblyInfoInputs.cache
+D:\Code\dotnet\线程同步问题\WordCountTest\obj\Debug\netcoreapp3.1\WordCountTest.AssemblyInfo.cs
+D:\Code\dotnet\线程同步问题\WordCountTest\obj\Debug\netcoreapp3.1\WordCountTest.dll
+D:\Code\dotnet\线程同步问题\WordCountTest\obj\Debug\netcoreapp3.1\WordCountTest.pdb
+D:\Code\dotnet\线程同步问题\WordCountTest\obj\Debug\netcoreapp3.1\WordCountTest.genruntimeconfig.cache

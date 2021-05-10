@@ -1,0 +1,13 @@
+D:\Code\dotnet\delegateDemo\匿名方法1\MyWhere\bin\Debug\netcoreapp3.1\MyWhere.exe
+D:\Code\dotnet\delegateDemo\匿名方法1\MyWhere\bin\Debug\netcoreapp3.1\MyWhere.deps.json
+D:\Code\dotnet\delegateDemo\匿名方法1\MyWhere\bin\Debug\netcoreapp3.1\MyWhere.runtimeconfig.json
+D:\Code\dotnet\delegateDemo\匿名方法1\MyWhere\bin\Debug\netcoreapp3.1\MyWhere.runtimeconfig.dev.json
+D:\Code\dotnet\delegateDemo\匿名方法1\MyWhere\bin\Debug\netcoreapp3.1\MyWhere.dll
+D:\Code\dotnet\delegateDemo\匿名方法1\MyWhere\bin\Debug\netcoreapp3.1\MyWhere.pdb
+D:\Code\dotnet\delegateDemo\匿名方法1\MyWhere\obj\Debug\netcoreapp3.1\MyWhere.csprojAssemblyReference.cache
+D:\Code\dotnet\delegateDemo\匿名方法1\MyWhere\obj\Debug\netcoreapp3.1\MyWhere.csproj.CoreCompileInputs.cache
+D:\Code\dotnet\delegateDemo\匿名方法1\MyWhere\obj\Debug\netcoreapp3.1\MyWhere.AssemblyInfoInputs.cache
+D:\Code\dotnet\delegateDemo\匿名方法1\MyWhere\obj\Debug\netcoreapp3.1\MyWhere.AssemblyInfo.cs
+D:\Code\dotnet\delegateDemo\匿名方法1\MyWhere\obj\Debug\netcoreapp3.1\MyWhere.dll
+D:\Code\dotnet\delegateDemo\匿名方法1\MyWhere\obj\Debug\netcoreapp3.1\MyWhere.pdb
+D:\Code\dotnet\delegateDemo\匿名方法1\MyWhere\obj\Debug\netcoreapp3.1\MyWhere.genruntimeconfig.cache

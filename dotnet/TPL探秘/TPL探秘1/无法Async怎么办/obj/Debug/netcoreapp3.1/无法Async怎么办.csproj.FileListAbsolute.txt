@@ -1,0 +1,13 @@
+D:\Code\dotnet\TPL探秘\TPL探秘1\无法Async怎么办\obj\Debug\netcoreapp3.1\无法Async怎么办.csprojAssemblyReference.cache
+D:\Code\dotnet\TPL探秘\TPL探秘1\无法Async怎么办\obj\Debug\netcoreapp3.1\无法Async怎么办.csproj.CoreCompileInputs.cache
+D:\Code\dotnet\TPL探秘\TPL探秘1\无法Async怎么办\obj\Debug\netcoreapp3.1\无法Async怎么办.AssemblyInfoInputs.cache
+D:\Code\dotnet\TPL探秘\TPL探秘1\无法Async怎么办\obj\Debug\netcoreapp3.1\无法Async怎么办.AssemblyInfo.cs
+D:\Code\dotnet\TPL探秘\TPL探秘1\无法Async怎么办\bin\Debug\netcoreapp3.1\无法Async怎么办.exe
+D:\Code\dotnet\TPL探秘\TPL探秘1\无法Async怎么办\bin\Debug\netcoreapp3.1\无法Async怎么办.deps.json
+D:\Code\dotnet\TPL探秘\TPL探秘1\无法Async怎么办\bin\Debug\netcoreapp3.1\无法Async怎么办.runtimeconfig.json
+D:\Code\dotnet\TPL探秘\TPL探秘1\无法Async怎么办\bin\Debug\netcoreapp3.1\无法Async怎么办.runtimeconfig.dev.json
+D:\Code\dotnet\TPL探秘\TPL探秘1\无法Async怎么办\bin\Debug\netcoreapp3.1\无法Async怎么办.dll
+D:\Code\dotnet\TPL探秘\TPL探秘1\无法Async怎么办\bin\Debug\netcoreapp3.1\无法Async怎么办.pdb
+D:\Code\dotnet\TPL探秘\TPL探秘1\无法Async怎么办\obj\Debug\netcoreapp3.1\无法Async怎么办.dll
+D:\Code\dotnet\TPL探秘\TPL探秘1\无法Async怎么办\obj\Debug\netcoreapp3.1\无法Async怎么办.pdb
+D:\Code\dotnet\TPL探秘\TPL探秘1\无法Async怎么办\obj\Debug\netcoreapp3.1\无法Async怎么办.genruntimeconfig.cache

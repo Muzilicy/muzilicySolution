@@ -1,0 +1,13 @@
+D:\Code\dotnet\线程池Test\线程池Test\bin\Debug\netcoreapp3.1\线程池Test.exe
+D:\Code\dotnet\线程池Test\线程池Test\bin\Debug\netcoreapp3.1\线程池Test.deps.json
+D:\Code\dotnet\线程池Test\线程池Test\bin\Debug\netcoreapp3.1\线程池Test.runtimeconfig.json
+D:\Code\dotnet\线程池Test\线程池Test\bin\Debug\netcoreapp3.1\线程池Test.runtimeconfig.dev.json
+D:\Code\dotnet\线程池Test\线程池Test\bin\Debug\netcoreapp3.1\线程池Test.dll
+D:\Code\dotnet\线程池Test\线程池Test\bin\Debug\netcoreapp3.1\线程池Test.pdb
+D:\Code\dotnet\线程池Test\线程池Test\obj\Debug\netcoreapp3.1\线程池Test.csprojAssemblyReference.cache
+D:\Code\dotnet\线程池Test\线程池Test\obj\Debug\netcoreapp3.1\线程池Test.csproj.CoreCompileInputs.cache
+D:\Code\dotnet\线程池Test\线程池Test\obj\Debug\netcoreapp3.1\线程池Test.AssemblyInfoInputs.cache
+D:\Code\dotnet\线程池Test\线程池Test\obj\Debug\netcoreapp3.1\线程池Test.AssemblyInfo.cs
+D:\Code\dotnet\线程池Test\线程池Test\obj\Debug\netcoreapp3.1\线程池Test.dll
+D:\Code\dotnet\线程池Test\线程池Test\obj\Debug\netcoreapp3.1\线程池Test.pdb
+D:\Code\dotnet\线程池Test\线程池Test\obj\Debug\netcoreapp3.1\线程池Test.genruntimeconfig.cache

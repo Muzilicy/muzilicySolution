@@ -1,0 +1,9 @@
+D:\Code\dotnet\TPL探秘\TPL探秘1\TestIService\bin\Debug\TestIService.dll
+D:\Code\dotnet\TPL探秘\TPL探秘1\TestIService\bin\Debug\TestIService.pdb
+D:\Code\dotnet\TPL探秘\TPL探秘1\TestIService\bin\Debug\TestDTO.dll
+D:\Code\dotnet\TPL探秘\TPL探秘1\TestIService\bin\Debug\TestDTO.pdb
+D:\Code\dotnet\TPL探秘\TPL探秘1\TestIService\obj\Debug\TestIService.csprojAssemblyReference.cache
+D:\Code\dotnet\TPL探秘\TPL探秘1\TestIService\obj\Debug\TestIService.csproj.CoreCompileInputs.cache
+D:\Code\dotnet\TPL探秘\TPL探秘1\TestIService\obj\Debug\TestIService.csproj.CopyComplete
+D:\Code\dotnet\TPL探秘\TPL探秘1\TestIService\obj\Debug\TestIService.dll
+D:\Code\dotnet\TPL探秘\TPL探秘1\TestIService\obj\Debug\TestIService.pdb

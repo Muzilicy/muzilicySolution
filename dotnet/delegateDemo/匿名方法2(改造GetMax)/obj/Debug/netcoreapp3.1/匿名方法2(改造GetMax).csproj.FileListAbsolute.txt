@@ -1,0 +1,13 @@
+D:\Code\dotnet\delegateDemo\匿名方法2(改造GetMax)\bin\Debug\netcoreapp3.1\匿名方法2(改造GetMax).exe
+D:\Code\dotnet\delegateDemo\匿名方法2(改造GetMax)\bin\Debug\netcoreapp3.1\匿名方法2(改造GetMax).deps.json
+D:\Code\dotnet\delegateDemo\匿名方法2(改造GetMax)\bin\Debug\netcoreapp3.1\匿名方法2(改造GetMax).runtimeconfig.json
+D:\Code\dotnet\delegateDemo\匿名方法2(改造GetMax)\bin\Debug\netcoreapp3.1\匿名方法2(改造GetMax).runtimeconfig.dev.json
+D:\Code\dotnet\delegateDemo\匿名方法2(改造GetMax)\bin\Debug\netcoreapp3.1\匿名方法2(改造GetMax).dll
+D:\Code\dotnet\delegateDemo\匿名方法2(改造GetMax)\bin\Debug\netcoreapp3.1\匿名方法2(改造GetMax).pdb
+D:\Code\dotnet\delegateDemo\匿名方法2(改造GetMax)\obj\Debug\netcoreapp3.1\匿名方法2(改造GetMax).csprojAssemblyReference.cache
+D:\Code\dotnet\delegateDemo\匿名方法2(改造GetMax)\obj\Debug\netcoreapp3.1\匿名方法2(改造GetMax).csproj.CoreCompileInputs.cache
+D:\Code\dotnet\delegateDemo\匿名方法2(改造GetMax)\obj\Debug\netcoreapp3.1\匿名方法2(改造GetMax).AssemblyInfoInputs.cache
+D:\Code\dotnet\delegateDemo\匿名方法2(改造GetMax)\obj\Debug\netcoreapp3.1\匿名方法2(改造GetMax).AssemblyInfo.cs
+D:\Code\dotnet\delegateDemo\匿名方法2(改造GetMax)\obj\Debug\netcoreapp3.1\匿名方法2(改造GetMax).dll
+D:\Code\dotnet\delegateDemo\匿名方法2(改造GetMax)\obj\Debug\netcoreapp3.1\匿名方法2(改造GetMax).pdb
+D:\Code\dotnet\delegateDemo\匿名方法2(改造GetMax)\obj\Debug\netcoreapp3.1\匿名方法2(改造GetMax).genruntimeconfig.cache

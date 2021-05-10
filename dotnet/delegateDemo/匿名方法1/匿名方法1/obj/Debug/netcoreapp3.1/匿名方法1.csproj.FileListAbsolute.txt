@@ -1,0 +1,12 @@
+D:\Code\dotnet\delegateDemo\匿名方法1\匿名方法1\bin\Debug\netcoreapp3.1\匿名方法1.exe
+D:\Code\dotnet\delegateDemo\匿名方法1\匿名方法1\bin\Debug\netcoreapp3.1\匿名方法1.deps.json
+D:\Code\dotnet\delegateDemo\匿名方法1\匿名方法1\bin\Debug\netcoreapp3.1\匿名方法1.runtimeconfig.json
+D:\Code\dotnet\delegateDemo\匿名方法1\匿名方法1\bin\Debug\netcoreapp3.1\匿名方法1.runtimeconfig.dev.json
+D:\Code\dotnet\delegateDemo\匿名方法1\匿名方法1\bin\Debug\netcoreapp3.1\匿名方法1.dll
+D:\Code\dotnet\delegateDemo\匿名方法1\匿名方法1\bin\Debug\netcoreapp3.1\匿名方法1.pdb
+D:\Code\dotnet\delegateDemo\匿名方法1\匿名方法1\obj\Debug\netcoreapp3.1\匿名方法1.csproj.CoreCompileInputs.cache
+D:\Code\dotnet\delegateDemo\匿名方法1\匿名方法1\obj\Debug\netcoreapp3.1\匿名方法1.AssemblyInfoInputs.cache
+D:\Code\dotnet\delegateDemo\匿名方法1\匿名方法1\obj\Debug\netcoreapp3.1\匿名方法1.AssemblyInfo.cs
+D:\Code\dotnet\delegateDemo\匿名方法1\匿名方法1\obj\Debug\netcoreapp3.1\匿名方法1.dll
+D:\Code\dotnet\delegateDemo\匿名方法1\匿名方法1\obj\Debug\netcoreapp3.1\匿名方法1.pdb
+D:\Code\dotnet\delegateDemo\匿名方法1\匿名方法1\obj\Debug\netcoreapp3.1\匿名方法1.genruntimeconfig.cache

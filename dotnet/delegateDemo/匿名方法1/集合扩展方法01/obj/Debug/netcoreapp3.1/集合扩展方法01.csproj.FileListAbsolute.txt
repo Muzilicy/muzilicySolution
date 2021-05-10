@@ -1,0 +1,12 @@
+D:\Code\dotnet\delegateDemo\匿名方法1\集合扩展方法01\bin\Debug\netcoreapp3.1\集合扩展方法01.exe
+D:\Code\dotnet\delegateDemo\匿名方法1\集合扩展方法01\bin\Debug\netcoreapp3.1\集合扩展方法01.deps.json
+D:\Code\dotnet\delegateDemo\匿名方法1\集合扩展方法01\bin\Debug\netcoreapp3.1\集合扩展方法01.runtimeconfig.json
+D:\Code\dotnet\delegateDemo\匿名方法1\集合扩展方法01\bin\Debug\netcoreapp3.1\集合扩展方法01.runtimeconfig.dev.json
+D:\Code\dotnet\delegateDemo\匿名方法1\集合扩展方法01\bin\Debug\netcoreapp3.1\集合扩展方法01.dll
+D:\Code\dotnet\delegateDemo\匿名方法1\集合扩展方法01\bin\Debug\netcoreapp3.1\集合扩展方法01.pdb
+D:\Code\dotnet\delegateDemo\匿名方法1\集合扩展方法01\obj\Debug\netcoreapp3.1\集合扩展方法01.csproj.CoreCompileInputs.cache
+D:\Code\dotnet\delegateDemo\匿名方法1\集合扩展方法01\obj\Debug\netcoreapp3.1\集合扩展方法01.AssemblyInfoInputs.cache
+D:\Code\dotnet\delegateDemo\匿名方法1\集合扩展方法01\obj\Debug\netcoreapp3.1\集合扩展方法01.AssemblyInfo.cs
+D:\Code\dotnet\delegateDemo\匿名方法1\集合扩展方法01\obj\Debug\netcoreapp3.1\集合扩展方法01.dll
+D:\Code\dotnet\delegateDemo\匿名方法1\集合扩展方法01\obj\Debug\netcoreapp3.1\集合扩展方法01.pdb
+D:\Code\dotnet\delegateDemo\匿名方法1\集合扩展方法01\obj\Debug\netcoreapp3.1\集合扩展方法01.genruntimeconfig.cache

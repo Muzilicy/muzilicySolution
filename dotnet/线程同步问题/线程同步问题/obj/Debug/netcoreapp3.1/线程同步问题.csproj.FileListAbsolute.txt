@@ -1,0 +1,13 @@
+D:\Code\dotnet\线程同步问题\线程同步问题\obj\Debug\netcoreapp3.1\线程同步问题.csprojAssemblyReference.cache
+D:\Code\dotnet\线程同步问题\线程同步问题\obj\Debug\netcoreapp3.1\线程同步问题.csproj.CoreCompileInputs.cache
+D:\Code\dotnet\线程同步问题\线程同步问题\obj\Debug\netcoreapp3.1\线程同步问题.AssemblyInfoInputs.cache
+D:\Code\dotnet\线程同步问题\线程同步问题\obj\Debug\netcoreapp3.1\线程同步问题.AssemblyInfo.cs
+D:\Code\dotnet\线程同步问题\线程同步问题\bin\Debug\netcoreapp3.1\线程同步问题.exe
+D:\Code\dotnet\线程同步问题\线程同步问题\bin\Debug\netcoreapp3.1\线程同步问题.deps.json
+D:\Code\dotnet\线程同步问题\线程同步问题\bin\Debug\netcoreapp3.1\线程同步问题.runtimeconfig.json
+D:\Code\dotnet\线程同步问题\线程同步问题\bin\Debug\netcoreapp3.1\线程同步问题.runtimeconfig.dev.json
+D:\Code\dotnet\线程同步问题\线程同步问题\bin\Debug\netcoreapp3.1\线程同步问题.dll
+D:\Code\dotnet\线程同步问题\线程同步问题\bin\Debug\netcoreapp3.1\线程同步问题.pdb
+D:\Code\dotnet\线程同步问题\线程同步问题\obj\Debug\netcoreapp3.1\线程同步问题.dll
+D:\Code\dotnet\线程同步问题\线程同步问题\obj\Debug\netcoreapp3.1\线程同步问题.pdb
+D:\Code\dotnet\线程同步问题\线程同步问题\obj\Debug\netcoreapp3.1\线程同步问题.genruntimeconfig.cache

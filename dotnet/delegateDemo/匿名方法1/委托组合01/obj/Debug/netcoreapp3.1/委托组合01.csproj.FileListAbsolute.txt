@@ -1,0 +1,12 @@
+D:\Code\dotnet\delegateDemo\匿名方法1\委托组合01\bin\Debug\netcoreapp3.1\委托组合01.exe
+D:\Code\dotnet\delegateDemo\匿名方法1\委托组合01\bin\Debug\netcoreapp3.1\委托组合01.deps.json
+D:\Code\dotnet\delegateDemo\匿名方法1\委托组合01\bin\Debug\netcoreapp3.1\委托组合01.runtimeconfig.json
+D:\Code\dotnet\delegateDemo\匿名方法1\委托组合01\bin\Debug\netcoreapp3.1\委托组合01.runtimeconfig.dev.json
+D:\Code\dotnet\delegateDemo\匿名方法1\委托组合01\bin\Debug\netcoreapp3.1\委托组合01.dll
+D:\Code\dotnet\delegateDemo\匿名方法1\委托组合01\bin\Debug\netcoreapp3.1\委托组合01.pdb
+D:\Code\dotnet\delegateDemo\匿名方法1\委托组合01\obj\Debug\netcoreapp3.1\委托组合01.csproj.CoreCompileInputs.cache
+D:\Code\dotnet\delegateDemo\匿名方法1\委托组合01\obj\Debug\netcoreapp3.1\委托组合01.AssemblyInfoInputs.cache
+D:\Code\dotnet\delegateDemo\匿名方法1\委托组合01\obj\Debug\netcoreapp3.1\委托组合01.AssemblyInfo.cs
+D:\Code\dotnet\delegateDemo\匿名方法1\委托组合01\obj\Debug\netcoreapp3.1\委托组合01.dll
+D:\Code\dotnet\delegateDemo\匿名方法1\委托组合01\obj\Debug\netcoreapp3.1\委托组合01.pdb
+D:\Code\dotnet\delegateDemo\匿名方法1\委托组合01\obj\Debug\netcoreapp3.1\委托组合01.genruntimeconfig.cache

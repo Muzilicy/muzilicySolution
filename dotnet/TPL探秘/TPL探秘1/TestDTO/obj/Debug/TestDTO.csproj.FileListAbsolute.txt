@@ -1,0 +1,5 @@
+D:\Code\dotnet\TPL探秘\TPL探秘1\TestDTO\bin\Debug\TestDTO.dll
+D:\Code\dotnet\TPL探秘\TPL探秘1\TestDTO\bin\Debug\TestDTO.pdb
+D:\Code\dotnet\TPL探秘\TPL探秘1\TestDTO\obj\Debug\TestDTO.csproj.CoreCompileInputs.cache
+D:\Code\dotnet\TPL探秘\TPL探秘1\TestDTO\obj\Debug\TestDTO.dll
+D:\Code\dotnet\TPL探秘\TPL探秘1\TestDTO\obj\Debug\TestDTO.pdb

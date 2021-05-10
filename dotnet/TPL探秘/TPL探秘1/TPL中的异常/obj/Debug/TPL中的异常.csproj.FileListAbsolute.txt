@@ -1,0 +1,10 @@
+D:\Code\dotnet\TPL探秘\TPL探秘1\TPL中的异常\bin\Debug\TPL中的异常.exe.config
+D:\Code\dotnet\TPL探秘\TPL探秘1\TPL中的异常\bin\Debug\TPL中的异常.exe
+D:\Code\dotnet\TPL探秘\TPL探秘1\TPL中的异常\bin\Debug\TPL中的异常.pdb
+D:\Code\dotnet\TPL探秘\TPL探秘1\TPL中的异常\obj\Debug\TPL中的异常.csprojAssemblyReference.cache
+D:\Code\dotnet\TPL探秘\TPL探秘1\TPL中的异常\obj\Debug\TPL中的异常.Form1.resources
+D:\Code\dotnet\TPL探秘\TPL探秘1\TPL中的异常\obj\Debug\TPL中的异常.Properties.Resources.resources
+D:\Code\dotnet\TPL探秘\TPL探秘1\TPL中的异常\obj\Debug\TPL中的异常.csproj.GenerateResource.cache
+D:\Code\dotnet\TPL探秘\TPL探秘1\TPL中的异常\obj\Debug\TPL中的异常.csproj.CoreCompileInputs.cache
+D:\Code\dotnet\TPL探秘\TPL探秘1\TPL中的异常\obj\Debug\TPL中的异常.exe
+D:\Code\dotnet\TPL探秘\TPL探秘1\TPL中的异常\obj\Debug\TPL中的异常.pdb

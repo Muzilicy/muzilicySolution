@@ -1,0 +1,13 @@
+D:\Code\dotnet\delegateDemo\匿名方法1\lambda表达式1\bin\Debug\netcoreapp3.1\lambda表达式1.exe
+D:\Code\dotnet\delegateDemo\匿名方法1\lambda表达式1\bin\Debug\netcoreapp3.1\lambda表达式1.deps.json
+D:\Code\dotnet\delegateDemo\匿名方法1\lambda表达式1\bin\Debug\netcoreapp3.1\lambda表达式1.runtimeconfig.json
+D:\Code\dotnet\delegateDemo\匿名方法1\lambda表达式1\bin\Debug\netcoreapp3.1\lambda表达式1.runtimeconfig.dev.json
+D:\Code\dotnet\delegateDemo\匿名方法1\lambda表达式1\bin\Debug\netcoreapp3.1\lambda表达式1.dll
+D:\Code\dotnet\delegateDemo\匿名方法1\lambda表达式1\bin\Debug\netcoreapp3.1\lambda表达式1.pdb
+D:\Code\dotnet\delegateDemo\匿名方法1\lambda表达式1\obj\Debug\netcoreapp3.1\lambda表达式1.csprojAssemblyReference.cache
+D:\Code\dotnet\delegateDemo\匿名方法1\lambda表达式1\obj\Debug\netcoreapp3.1\lambda表达式1.csproj.CoreCompileInputs.cache
+D:\Code\dotnet\delegateDemo\匿名方法1\lambda表达式1\obj\Debug\netcoreapp3.1\lambda表达式1.AssemblyInfoInputs.cache
+D:\Code\dotnet\delegateDemo\匿名方法1\lambda表达式1\obj\Debug\netcoreapp3.1\lambda表达式1.AssemblyInfo.cs
+D:\Code\dotnet\delegateDemo\匿名方法1\lambda表达式1\obj\Debug\netcoreapp3.1\lambda表达式1.dll
+D:\Code\dotnet\delegateDemo\匿名方法1\lambda表达式1\obj\Debug\netcoreapp3.1\lambda表达式1.pdb
+D:\Code\dotnet\delegateDemo\匿名方法1\lambda表达式1\obj\Debug\netcoreapp3.1\lambda表达式1.genruntimeconfig.cache

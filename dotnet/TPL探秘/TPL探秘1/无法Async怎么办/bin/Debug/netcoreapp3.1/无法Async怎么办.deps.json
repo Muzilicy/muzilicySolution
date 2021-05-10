@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "无法Async怎么办/1.0.0": {
+        "runtime": {
+          "无法Async怎么办.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "无法Async怎么办/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
