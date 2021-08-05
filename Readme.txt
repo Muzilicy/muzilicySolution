@@ -1,3 +1,6 @@
+git入门指令--同步远程仓库和分支操作
+	https://www.cnblogs.com/code-duck/p/13228508.html
+
 git常使用的命令
 1、git init —在当前目录新建一个代码库。
 2、 git config user.name=””git config user.email=””—设置代码提交时候的信息。
