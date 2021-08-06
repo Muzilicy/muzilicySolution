@@ -232,82 +232,33 @@ await Task.WhenAll(tasks.ToArray());
 
 ## ① HRP.RenLiZY.RenYuanGL.Host 
 
-```
-public class Startup : IMCRPStartup
+```c#
+ public class Startup : IMCRPStartup
     {
-        public override void Configure(IApplicationBuilder app, Microsoft.AspNetCore.Hosting.IWebHostEnvironment env, IConfiguration configuration)
+        public override void Configure(IApplicationBuilder app, IWebHostEnvironment env, IConfiguration configuration)
         {
             base.Configure(app, env, configuration);
-            app.UseCors("allowAll");
         }
 
         public override void ConfigureServices(IServiceCollection services, IConfiguration configuration)
         {
-            base.ConfigureServices(services, configuration);
-            services.AddCors((ac) =>
-            {
-                ac.AddPolicy("allowAll", (policy) =>
-                {
-                    policy.AllowAnyOrigin()
-                        .AllowAnyMethod()
-                        .AllowAnyHeader();
-                });
-            });
-
-            
-            JwtSecurityTokenHandler.DefaultInboundClaimTypeMap.Clear();
-            services.AddAuthentication(options =>
-            {
-                options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
-                options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
-
-            }).AddJwtBearer(options =>
-            {
-                options.Authority = configuration.GetSection("identityServer").Value;
-                options.RequireHttpsMetadata = false;
-                options.Audience = "null";
-                options.TokenValidationParameters.ValidateAudience = false;
-                options.TokenValidationParameters.ValidateIssuer = false;
-            });
+             //注入了仓储
             services.AddCustomIntegrations();
-            services.AddCustomDbContext<RenLiZYDbContext>(opt =>
-            {
-                opt.UseEfCoreOracle(configuration.GetConnectionString("default"));
-                //opt.UseEntityFrameworkOracle(configuration.GetConnectionString("default"));
-            });
-            services.AddScoped<IPageService, PageService>();
-            services.AddScoped<IZhiGongXXLSService, ZhiGongXXLSService>();
-            services.AddScoped<IExportService, ExportService>();
-            services.AddScoped<IImportService, ImportService>();
-            services.AddScoped<IZhiGongDAService, ZhiGongDAService>();
-            services.AddApplicationServices();
 
-            //添加一个部署服务用的IHttpClientFactory
-            services.AddHttpClient(UploadConstant.UploadHttpClientName);
-            services.AddMemoryCache();
-            services.Configure<KestrelServerOptions>(option =>
+            //注入SampleDbContext
+            services.AddCustomDbContext<SampleDbContext>(opt =>
             {
-                option.Limits.MaxRequestBodySize = long.MaxValue;
-                option.Limits.MaxRequestBufferSize = long.MaxValue;
-                option.Limits.MaxResponseBufferSize = long.MaxValue;
-                option.Limits.KeepAliveTimeout = TimeSpan.FromMinutes(20);
-                option.Limits.RequestHeadersTimeout = TimeSpan.FromMinutes(20);
+                 	                        opt.UseEfCoreOracle(configuration.GetConnectionString("default"));
             });
 
-            services.Configure<FormOptions>(x =>
-            {
-                x.ValueLengthLimit = int.MaxValue;
-                x.MultipartBoundaryLengthLimit = int.MaxValue;
-                x.MultipartBodyLengthLimit = int.MaxValue;
-                x.MultipartHeadersLengthLimit = int.MaxValue;
-            });
+            base.ConfigureServices(services, configuration);
         }
     }
 ```
 
 
 
-## ②HRP.RenLiZY.RenYuanGL.API
+## ② HRP.RenLiZY.RenYuanGL.API
 
 ### 		Controllers: webApi Controller的文件夹
 
@@ -342,7 +293,21 @@ public class Startup : IMCRPStartup
 
 
 
-## ③HRP.RenLiZY.RenYuanGL.ORM
+## ③ HRP.RenLiZY.RenYuanGL.ORM
 
 ​	
+
+EntityTypeConfigurations: 实体映射的配置
+
+
+
+Models: 数据库映射的对象
+
+
+
+IRepositories: 仓储接口
+
+
+
+Repositories: 仓储实现
 
