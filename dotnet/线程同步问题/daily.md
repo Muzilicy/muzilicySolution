@@ -158,9 +158,6 @@ Cyan文档中心： https://doc.mediinfo.cn/
 
 ```js
  '/hrp-renlizy-renyuangl': {
-
-  	// target: 'http://172.19.80.60:31001/',
-
   	target:'http://localhost:20000',
 
   	changeOrigin: true,
