@@ -42,7 +42,7 @@ Cyan文档中心： https://doc.mediinfo.cn/
 
 ## b.文件夹划分		
 
-### 	API项目
+### 	 API项目
 
 ​			  Controllers:  接口类
 
@@ -257,17 +257,17 @@ await Task.WhenAll(tasks.ToArray());
 
 ## ② HRP.RenLiZY.RenYuanGL.API
 
-### 		Controllers: webApi Controller的文件夹
+Controllers: webApi Controller的文件夹
 
-### 		Services: 内部服务
+Services: 内部服务
 
-### 		RemoteServices： 远程服务
+RemoteServices： 远程服务
 
 ​				远程用到的Dto，建议使用Rso作为结尾
 
-### 		Dtos: 接口用到的Dto
+Dtos: 接口用到的Dto
 
-### 		Specifications：查询的规则
+Specifications：查询的规则
 
 ​		Filters
 
